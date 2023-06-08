@@ -1,0 +1,2890 @@
+# Translation of Plugins - Depicter Slider &#8211; Responsive Image Slider, Video Slider &amp; Post Slider - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - Depicter Slider &#8211; Responsive Image Slider, Video Slider &amp; Post Slider - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-22 22:49:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - Depicter Slider &#8211; Responsive Image Slider, Video Slider &amp; Post Slider - Stable (latest release)\n"
+
+#: app/src/Controllers/Ajax/EditorAjaxController.php:88
+msgid "License is not valid."
+msgstr "Lisensi tidak valid"
+
+#: app/src/Front/Preview.php:98
+msgid "Please select a slider from the list."
+msgstr "Silakan pilih slider dari daftar."
+
+#: app/src/WordPress/Settings/Settings.php:92
+msgid "Saved changes!"
+msgstr "Simpan perubahan!"
+
+#: app/src/WordPress/Settings/Settings.php:58
+msgid "What do you think you are doing?"
+msgstr "Apa yang sedang Anda kerjakan?"
+
+#: app/src/Dashboard/DashboardSetting.php:519
+msgid "MultiSelect Option5"
+msgstr "MultiSelect Option5"
+
+#: app/src/Dashboard/DashboardSetting.php:518
+msgid "MultiSelect Option4"
+msgstr "MultiSelect Option4"
+
+#: app/src/Dashboard/DashboardSetting.php:517
+msgid "MultiSelect Option3"
+msgstr "MultiSelect Option3"
+
+#: app/src/Dashboard/DashboardSetting.php:516
+msgid "MultiSelect Option2"
+msgstr "MultiSelect Option2"
+
+#: app/src/Dashboard/DashboardSetting.php:515
+msgid "MultiSelect Option1"
+msgstr "MultiSelect Option1"
+
+#: app/src/Dashboard/DashboardSetting.php:492
+msgid "Invalid option for Select1"
+msgstr "Pilihan tidak valid untuk Select1"
+
+#: app/src/Dashboard/DashboardSetting.php:476
+msgid "Option3"
+msgstr "Option3"
+
+#: app/src/Dashboard/DashboardSetting.php:475
+msgid "Option2"
+msgstr "Option2"
+
+#: app/src/Dashboard/DashboardSetting.php:474
+msgid "Option1"
+msgstr "Option1"
+
+#: app/src/Dashboard/DashboardSetting.php:404
+msgid "Input1 cannot be empty"
+msgstr "Input1 tidak boleh kosong"
+
+#: app/src/Dashboard/DashboardSetting.php:370
+msgid "Editor1 Label"
+msgstr "Label Editor1"
+
+#: app/src/Dashboard/DashboardSetting.php:356
+msgid "Color1 Label"
+msgstr "Label Warna1"
+
+#: app/src/Dashboard/DashboardSetting.php:335
+msgid "Textarea1 Label"
+msgstr "Label Textarea1"
+
+#: app/src/Dashboard/DashboardSetting.php:321
+msgid "MultiSelect1 Label"
+msgstr "Label MultiSelect1"
+
+#: app/src/Dashboard/DashboardSetting.php:303
+msgid "Checkbox1 Label"
+msgstr "Label Checkbox1"
+
+#: app/src/Dashboard/DashboardSetting.php:285
+msgid "Select1 Label"
+msgstr "Label Select1"
+
+#: app/src/Dashboard/DashboardSetting.php:266
+msgid "Number1 Label"
+msgstr "Label Number1"
+
+#: app/src/Dashboard/DashboardSetting.php:249
+msgid "Password1 Label"
+msgstr "Label Password1"
+
+#: app/src/Dashboard/DashboardSetting.php:232
+msgid "Datetime1 Label"
+msgstr "Label Datetime1"
+
+#: app/src/Dashboard/DashboardSetting.php:215
+msgid "Date1 Label"
+msgstr "Label Tanggal1"
+
+#: app/src/Dashboard/DashboardSetting.php:177
+msgid "Input1 Label"
+msgstr "Label Input1"
+
+#: app/src/Dashboard/DashboardPage.php:108
+msgid "General Settings"
+msgstr "Pengaturan Umum"
+
+#: app/src/Dashboard/DashboardPage.php:111
+msgid "Load assets on all pages?"
+msgstr "Muat komponen pada semua halaman?"
+
+#: app/src/Dashboard/DashboardPage.php:112
+msgid "By default, Depicter will load corresponding JavaScript and CSS files on demand. but if you need to load assets on all pages, check this option. <br>( For example, if you plan to load Depicter via Ajax, you need to enable this option )"
+msgstr "Secara default, Depicter akan memuat berkas JavaScript dan CSS sesuai permintaan. Tetapi jika Anda perlu memuat aset di semua halaman, centang opsi ini. <br>( Misalnya, jika Anda berencana memuat Depicter melalui Ajax, Anda harus mengaktifkan opsi ini )"
+
+#: app/src/Modules/Divi/includes/modules/depicter/depicter.php:73
+msgid "Publish or edit slider"
+msgstr "Publikasikan atau edit slider"
+
+#: app/src/Modules/Divi/includes/modules/depicter/depicter.php:62
+msgid "Slider ID"
+msgstr "ID Slider"
+
+#: app/src/Modules/Elementor/SliderWidget.php:184
+#: app/src/Modules/Oxygen/module.php:45
+msgid "Please select a Depicter slider"
+msgstr "Silakan pilih slider Depicter"
+
+#: app/src/Dashboard/DashboardPage.php:48
+#: app/src/Dashboard/DashboardPage.php:49
+msgid "Dashboard"
+msgstr "Dasbor"
+
+#: app/src/Utility/Http.php:25
+msgid "Connection Error .."
+msgstr "Eror Koneksi"
+
+#: app/src/Modules/Elementor/SliderWidget.php:134
+msgid "Select a Depicter slider"
+msgstr "Pilih slider Depicter"
+
+#: app/src/Front/Render.php:73
+msgid "Slider ID is required."
+msgstr "ID slider diwajibkan."
+
+#: app/src/Modules/ModulesServiceProvider.php:117
+#: views/admin/notices/builders-draft-notice.php:33
+msgid "Publish Slider"
+msgstr "Publikasikan Slider"
+
+#: views/admin/notices/slider-draft-notice.php:115
+msgid "This notice is only visible to you."
+msgstr "Catatan ini hanya terlihat untuk Anda."
+
+#: views/admin/notices/slider-draft-notice.php:114
+msgid "and publish now."
+msgstr "dan publikasikan sekarang."
+
+#: views/admin/notices/slider-draft-notice.php:114
+msgid "Open the editor"
+msgstr "Buka editor"
+
+#: views/admin/notices/slider-draft-notice.php:110
+msgid "This slider is not published yet and is not visible to visitors."
+msgstr "Slider tidak dapat dipublikasikan dan tidak terlihat oleh pengunjung."
+
+#: app/src/Modules/Divi/includes/modules/depicter/depicter.php:29
+#: app/src/Modules/Elementor/Module.php:83
+#: app/src/Modules/ModulesServiceProvider.php:79
+#: views/admin/notices/builders-draft-notice.php:18
+msgid "Published"
+msgstr "Dipublikasikan"
+
+#: views/admin/notices/builders-draft-notice.php:24
+#: views/admin/notices/slider-draft-notice.php:112
+msgid "This slider has unpublished changes. Publish the changes to see the final result."
+msgstr "Slider tidak menerbitkan perubahan. Terbitkan perubahan untuk melihat hasil akhirnya."
+
+#: views/admin/notices/builders-draft-notice.php:22
+msgid "This slider is not published yet and is not visible to visitors. Open the editor and publish now. This notice is only visible to you."
+msgstr "Slider ini belum dipublikasikan dan tidak terlihat oleh pengunjung. Buka editor dan publikasikan sekarang. Pemberitahuan ini hanya dapat dilihat oleh Anda."
+
+#: app/src/Dashboard/DashboardSetting.php:58
+#: app/src/Modules/Beaver/module.php:116
+msgid "Depicter Settings"
+msgstr "Pengaturan Depicter"
+
+#: app/src/Modules/WPBakery/module.php:34
+msgid "Make animated and interactive slider"
+msgstr "Buat slider beranimasi dan interaktif"
+
+#: app/src/Front/Render.php:85
+msgid "Slider alias not found."
+msgstr "Alias slider tidak ditemukan."
+
+#: app/src/DataSources/Products.php:369 app/src/DataSources/Tags/Legacy.php:265
+#: app/src/DataSources/Tags/Product.php:311
+msgid "Out of stock"
+msgstr "Habis"
+
+#: app/src/DataSources/Products.php:367 app/src/DataSources/Tags/Legacy.php:263
+#: app/src/DataSources/Tags/Product.php:309
+msgid "In stock"
+msgstr "Ada stok"
+
+#: app/src/DataSources/Products.php:365 app/src/DataSources/Tags/Legacy.php:261
+#: app/src/DataSources/Tags/Product.php:307
+msgid "On backorder"
+msgstr "Urutan mundur"
+
+#. Description of the plugin
+#: app/src/Modules/Beaver/module.php:15
+msgid "Make animated and interactive image slider, video slider, post slider and carousel which work smoothly across devices."
+msgstr "Buat slider gambar, slider video, slider pos, dan carousel beranimasi dan interaktif yang berjalan dengan lancar di seluruh perangkat."
+
+#: app/src/Controllers/Ajax/ExportAjaxController.php:22
+msgid "Document ID is required"
+msgstr "ID dokumen diwajibkan"
+
+#: app/src/Middleware/CapabilityMiddleware.php:38
+msgid "Sorry, insufficient permission!"
+msgstr "Maaf, izin tidak memenuhi syarat!"
+
+#: app/src/Editor/EditorLocalization.php:281
+msgid "Z Position"
+msgstr "Posisi Z"
+
+#: app/src/WordPress/SystemCheckService.php:70
+msgid "Error"
+msgstr "Eror"
+
+#: app/src/WordPress/SystemCheckService.php:53
+#: app/src/WordPress/SystemCheckService.php:59
+msgid "Error while trying to connect to depicter resources servers"
+msgstr "Eror saat mencoba menyambungkan ke server sumber daya depicter"
+
+#: app/src/Dashboard/DashboardSetting.php:138
+#: app/src/WordPress/SystemCheckService.php:38
+msgid "Performance"
+msgstr "Performa"
+
+#: app/src/WordPress/SystemCheckService.php:35
+#: app/src/WordPress/SystemCheckService.php:43
+msgid "Connecting to depicter resources servers passed successfully"
+msgstr "Berhasil menyambungkan ke server sumber daya depicter"
+
+#: app/src/WordPress/SystemCheckService.php:23
+msgid "Check to access depicter resources servers."
+msgstr "Cek untuk mengakses server sumber daya depicter."
+
+#: app/src/WordPress/FileUploaderService.php:32
+msgid "Cannot upload the file, uploading %s files are not allowed."
+msgstr "Tidak dapat mengunggah berkas, mengunggah berkas %s tidak diizinkan."
+
+#: app/src/WordPress/DeactivationFeedbackService.php:69
+msgid "What we can do better?"
+msgstr "Apa yang dapat kami tingkatkan?"
+
+#: app/src/WordPress/DeactivationFeedbackService.php:68
+msgid "Other"
+msgstr "Lainnya"
+
+#: app/src/WordPress/DeactivationFeedbackService.php:63
+msgid "It's a temporary deactivation"
+msgstr "Penonaktifkan sementara"
+
+#: app/src/WordPress/DeactivationFeedbackService.php:59
+msgid "How we can improve it?"
+msgstr "Bagaimana kami dapat meningkatkannya?"
+
+#: app/src/WordPress/DeactivationFeedbackService.php:58
+msgid "I couldn't get the plugin to work"
+msgstr "Saya mendapati plugin tidak berfungsi"
+
+#: app/src/WordPress/DeactivationFeedbackService.php:54
+msgid "Please share which plugin?"
+msgstr "Silakan bagikan plugin yang mana?"
+
+#: app/src/WordPress/DeactivationFeedbackService.php:53
+msgid "I found a better plugin or solution"
+msgstr "Saya menemukan plugin atau layanan yang lebih baik"
+
+#: app/src/Modules/Gutenberg/build/block.json
+#: app/src/Modules/Gutenberg/src/block.json
+msgctxt "block title"
+msgid "Depicter"
+msgstr "Depicter"
+
+#: views/admin/survey/feedback.php:38
+msgid "Submit & Deactivate"
+msgstr "Kirim & Nonaktifkan"
+
+#: views/admin/survey/feedback.php:37
+msgid "Skip & Deactivate"
+msgstr "Lewati & Nonaktifkan"
+
+#: views/admin/survey/feedback.php:23
+msgid "If you have a moment, please share why you are deactivating Depicter:"
+msgstr "Jika Anda punya waktu, mohon sampaikan alasan kenapa Anda menonaktifkan Depicter:"
+
+#. Translators: %1$s = plugin or theme name; %2$s = minimum version number;
+#. %3$s = maximum version number; %4$s plugin or theme name; %5$s loaded
+#. version number.
+#: app/version.php:54
+msgid "%1$s requires WP Emerge version >= %2$s and < %3$s but %4$s has already loaded version %5$s."
+msgstr "%1$s mewajibkan versi WP Emerge >= %2$s dan %3$s, namun %4$s telah memuat versi %5$s."
+
+#: app/src/WordPress/SystemCheckService.php:71
+msgid "Your site cannot communicate securely with depicter services. Contact your host provider and ask them to whitelist <code>depicter.com</code> to gain access to assets library"
+msgstr "Situs Anda tidak dapat berkomunikasi secara aman dengan layanan depicter. Hubungi provider hosting Anda dan minta mereka untuk mem-whitelist <code>depicter.com</code> untuk memperoleh akses ke pustaka komponen"
+
+#: app/src/WordPress/DeactivationFeedbackService.php:48
+msgid "It broke my site"
+msgstr "Hal itu merusak situs saya"
+
+#: app/src/WordPress/DeactivationFeedbackService.php:43
+msgid "I no longer need the plugin"
+msgstr "Saya tidak lagi memerlukan plugin ini"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:100
+msgid "New category Name"
+msgstr "Nama kategori baru"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:99
+msgid "Add New category"
+msgstr "Tambah nama kategori baru"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:98
+msgid "Update category"
+msgstr "Perbarui kategori"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:97
+msgid "Edit category"
+msgstr "Edit kategori"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:96
+msgid "View category"
+msgstr "Lihat kategori"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:95
+msgid "Parent category:"
+msgstr "Kategori induk:"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:94
+msgid "Parent category"
+msgstr "Kategori induk"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:93
+msgid "All Categories"
+msgstr "Semua Kategori"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:92
+msgid "Search Categories"
+msgstr "Cari Kategori"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:90
+#: app/src/WordPress/ContentTypesServiceProvider.php:101
+msgid "Categories"
+msgstr "Kategori"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:62
+msgid "No Sliders found in trash"
+msgstr "Tidak ada Slider di tong sampah"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:61
+msgid "No Sliders found"
+msgstr "Tidak ditemukan Slider"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:60
+msgid "Search Projects"
+msgstr "Cari Proyek"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:59
+msgid "New Project"
+msgstr "Proyek Baru"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:58
+msgid "Edit Project"
+msgstr "Edit Proyek"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:57
+msgid "View Project"
+msgstr "Lihat Proyek"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:56
+msgid "Add new Project"
+msgstr "Tambah Proyek baru"
+
+#: app/src/Dashboard/DashboardPage.php:56
+#: app/src/Dashboard/DashboardPage.php:57
+#: app/src/WordPress/ContentTypesServiceProvider.php:55
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:54
+msgid "Project"
+msgstr "Proyek"
+
+#: app/src/WordPress/ContentTypesServiceProvider.php:53
+msgid "Projects"
+msgstr "Proyek"
+
+#: app/src/Modules/ModulesServiceProvider.php:135
+msgid "Slider ID required"
+msgstr "ID Slider diwajibkan"
+
+#: app/src/Modules/ModulesServiceProvider.php:118
+#: views/admin/notices/builders-draft-notice.php:44
+msgid "Edit Slider"
+msgstr "Edit Slider"
+
+#: app/src/Modules/Elementor/SliderWidget.php:127
+msgid "Slider"
+msgstr "Slider"
+
+#: app/src/Modules/Beaver/module.php:76 app/src/Modules/Beaver/module.php:87
+#: app/src/Modules/Divi/includes/modules/depicter/depicter.php:52
+#: app/src/Modules/Elementor/SliderWidget.php:100
+#: app/src/Modules/ModulesServiceProvider.php:93
+#: app/src/Modules/Oxygen/module.php:53 app/src/Modules/Oxygen/module.php:65
+#: app/src/Modules/WPBakery/module.php:49
+#: app/src/Modules/WPBakery/module.php:62
+msgid "Select Slider"
+msgstr "Pilih Slider"
+
+#: app/src/Modules/Elementor/SliderWidget.php:48
+msgid "Depicter Slider"
+msgstr "Depicter Slider"
+
+#: app/src/Media/Image/FileEdit.php:238
+msgid "File cannot be resized."
+msgstr "Berkas tidak dapat diubah ukurannya."
+
+#: app/src/Front/Render.php:89
+msgid "Slider is not published yet and saved as \"draft\""
+msgstr "Slider belum dipublikasikan dan disimpan dalam \"draf\""
+
+#: app/src/Front/Preview.php:34
+msgid "Depicter Preview"
+msgstr "Pratinjau Depicter"
+
+#: app/src/Editor/EditorLocalization.php:605
+msgid "Reload"
+msgstr "Muat ulang"
+
+#: app/src/Editor/EditorLocalization.php:604
+msgid "Your sessions has been expired. please reload the page and try once again"
+msgstr "Sesi Anda telah kedaluwarsa. Mohon muat ulang halaman dan coba sekali lagi"
+
+#: app/src/Editor/EditorLocalization.php:603
+msgid "Mobile"
+msgstr "Ponsel"
+
+#: app/src/Editor/EditorLocalization.php:602
+msgid "Tablet"
+msgstr "Tablet"
+
+#: app/src/Editor/EditorLocalization.php:601
+msgid "Desktop"
+msgstr "Desktop"
+
+#: app/src/Editor/EditorLocalization.php:600
+msgid "Replay"
+msgstr "Replay"
+
+#: app/src/Editor/EditorLocalization.php:599
+msgid "Back"
+msgstr "Kembali"
+
+#: app/src/Dashboard/DashboardPage.php:65
+#: app/src/Dashboard/DashboardPage.php:66
+#: app/src/Editor/EditorLocalization.php:598
+msgid "Support"
+msgstr "Bantuan"
+
+#: app/src/Editor/EditorLocalization.php:597
+msgid "Send"
+msgstr "Kirim"
+
+#: app/src/Editor/EditorLocalization.php:596
+msgid "Email Address"
+msgstr "Alamat E-mail"
+
+#: app/src/Editor/EditorLocalization.php:593
+msgid "Related to"
+msgstr "Terkait dengan"
+
+#: app/src/Editor/EditorLocalization.php:592
+msgid "Choose a subject"
+msgstr "Pilih judul"
+
+#: app/src/Editor/EditorLocalization.php:591
+msgid "Send us feedback"
+msgstr "Kirim masukan"
+
+#: app/src/Editor/EditorLocalization.php:589
+msgid "Hash"
+msgstr "Hash"
+
+#: app/src/Editor/EditorLocalization.php:588
+msgid "Query String"
+msgstr "Query String"
+
+#: app/src/Editor/EditorLocalization.php:574
+msgid "Deactivate License"
+msgstr "Nonaktifkan Lisensi"
+
+#: app/src/Editor/EditorLocalization.php:573
+msgid "Purchase code"
+msgstr "Beli kode"
+
+#: app/src/Editor/EditorLocalization.php:572
+msgid "You license is activated"
+msgstr "Lisensi Anda aktif"
+
+#: app/src/Editor/EditorLocalization.php:570
+msgid "Allow access"
+msgstr "Izinkan akses"
+
+#: app/src/Editor/EditorLocalization.php:569
+msgid "Cache refresh time"
+msgstr "Waktu refresh cache"
+
+#: app/src/Editor/EditorLocalization.php:568
+msgid "Clear Cache"
+msgstr "Hapus Cache"
+
+#: app/src/Editor/EditorLocalization.php:566
+msgid "Enable"
+msgstr "Aktifkan"
+
+#: app/src/Editor/EditorLocalization.php:562
+msgid "No Wrap"
+msgstr "Tanpa Wrap"
+
+#: app/src/Editor/EditorLocalization.php:561
+msgid "Wrap"
+msgstr "Wrap"
+
+#: app/src/Editor/EditorLocalization.php:560
+msgid "Break Word"
+msgstr "Break Word"
+
+#: app/src/Editor/EditorLocalization.php:559
+msgid "Normal"
+msgstr "Normal"
+
+#: app/src/Editor/EditorLocalization.php:558
+msgid "Lowercase"
+msgstr "Huruf Kecil"
+
+#: app/src/Editor/EditorLocalization.php:556
+msgid "Uppercase"
+msgstr "Huruf Besar"
+
+#: app/src/Editor/EditorLocalization.php:555
+msgid "Right to Left"
+msgstr "Kanan ke Kiri"
+
+#: app/src/Editor/EditorLocalization.php:557
+msgid "Capitalize"
+msgstr "Huruf Kapital"
+
+#: app/src/Editor/EditorLocalization.php:554
+msgid "Left to Right"
+msgstr "Kiri ke Kanan"
+
+#: app/src/Editor/EditorLocalization.php:553
+msgid "Strike through"
+msgstr "Coretan"
+
+#: app/src/Editor/EditorLocalization.php:552
+msgid "Underline"
+msgstr "Garis Bawah"
+
+#: app/src/Editor/EditorLocalization.php:551
+msgid "Boxed"
+msgstr "Dalam Kotak"
+
+#: app/src/Editor/EditorLocalization.php:550
+msgid "Fullscreen"
+msgstr "Selayar Penuh"
+
+#: app/src/Editor/EditorLocalization.php:549
+msgid "Fullwidth"
+msgstr "Lebar Penuh"
+
+#: app/src/Editor/EditorLocalization.php:548
+msgid "Tile"
+msgstr "Kotak"
+
+#: app/src/Editor/EditorLocalization.php:547
+msgid "Stretch"
+msgstr "Rentangkan"
+
+#: app/src/Editor/EditorLocalization.php:546
+msgid "Contain"
+msgstr "Memuat"
+
+#: app/src/Editor/EditorLocalization.php:545
+msgid "Cover"
+msgstr "Sampul"
+
+#: app/src/Editor/EditorLocalization.php:544
+msgid "Inset"
+msgstr "Inset"
+
+#: app/src/Editor/EditorLocalization.php:543
+msgid "Outset"
+msgstr "Outset"
+
+#: app/src/Editor/EditorLocalization.php:542
+msgid "Upgrade to PRO"
+msgstr "Upgrade ke Pro"
+
+#: app/src/Editor/EditorLocalization.php:541
+msgid "Publish"
+msgstr "Publikasikan"
+
+#: app/src/Editor/EditorLocalization.php:540
+msgid "Newsletter subscription"
+msgstr "Langganan buletin"
+
+#: app/src/Editor/EditorLocalization.php:539
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: app/src/Editor/EditorLocalization.php:538
+msgid "Pro"
+msgstr "Pro"
+
+#: app/src/Editor/EditorLocalization.php:537
+msgid "Not Activated"
+msgstr "Tidak Diaktifkan"
+
+#: app/src/Editor/EditorLocalization.php:536
+msgid "Legacy Slider"
+msgstr "Slider Legacy"
+
+#: app/src/Editor/EditorLocalization.php:535
+msgid "Coming Soon"
+msgstr "Segera Hadir"
+
+#: app/src/Editor/EditorLocalization.php:526
+msgid "Awesome!"
+msgstr "Keren!"
+
+#: app/src/Editor/EditorLocalization.php:525
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: app/src/Editor/EditorLocalization.php:524
+msgid "Cancel"
+msgstr "Batalkan"
+
+#: app/src/Editor/EditorLocalization.php:522
+msgid "Buy Now"
+msgstr "Beli Sekarang"
+
+#: app/src/Editor/EditorLocalization.php:515
+msgid "Restore Data"
+msgstr "Kembalikan Data"
+
+#: app/src/Editor/EditorLocalization.php:517
+msgid "Activate your license"
+msgstr "Aktifkan lisensi Anda"
+
+#: app/src/Editor/EditorLocalization.php:518
+msgid "Activate Envato Account"
+msgstr "Aktifkan Akun Envato"
+
+#: app/src/Editor/EditorLocalization.php:519
+msgid "OR"
+msgstr "ATAU"
+
+#: app/src/Editor/EditorLocalization.php:509
+msgid "Add a description"
+msgstr "Tambah keterangan"
+
+#: app/src/Editor/EditorLocalization.php:508
+msgid "Details"
+msgstr "Detail"
+
+#: app/src/Editor/EditorLocalization.php:505
+msgid "We’re Sorry!"
+msgstr "Maaf!"
+
+#: app/src/Editor/EditorLocalization.php:502
+msgid "Back to WordPress"
+msgstr "Kembali ke WordPress"
+
+#: app/src/Editor/EditorLocalization.php:501
+msgid "Saving changes..."
+msgstr "Menyimpan perubahan..."
+
+#: app/src/Editor/EditorLocalization.php:500
+msgid "All changes saved"
+msgstr "Semua perubahan disimpan"
+
+#: app/src/Editor/EditorLocalization.php:499
+msgid "save"
+msgstr "simpan"
+
+#: app/src/Editor/EditorLocalization.php:498
+msgid "saved"
+msgstr "disimpan"
+
+#: app/src/Editor/EditorLocalization.php:492
+msgid "400%"
+msgstr "400%"
+
+#: app/src/Editor/EditorLocalization.php:491
+msgid "300%"
+msgstr "300%"
+
+#: app/src/Editor/EditorLocalization.php:490
+msgid "200%"
+msgstr "200%"
+
+#: app/src/Editor/EditorLocalization.php:489
+msgid "150%"
+msgstr "150%"
+
+#: app/src/Editor/EditorLocalization.php:488
+msgid "75%"
+msgstr "75%"
+
+#: app/src/Editor/EditorLocalization.php:487
+msgid "50%"
+msgstr "50%"
+
+#: app/src/Editor/EditorLocalization.php:486
+msgid "25%"
+msgstr "25%"
+
+#: app/src/Editor/EditorLocalization.php:485
+msgid "100%"
+msgstr "100%"
+
+#: app/src/Editor/EditorLocalization.php:484
+msgid "Fit"
+msgstr "Fit"
+
+#: app/src/Editor/EditorLocalization.php:483
+msgid "Redo"
+msgstr "Redo"
+
+#: app/src/Editor/EditorLocalization.php:482
+msgid "Undo"
+msgstr "Urungkan"
+
+#: app/src/Editor/EditorLocalization.php:480
+msgid "Play Animations"
+msgstr "Mainkan Animasi"
+
+#: app/src/Editor/EditorLocalization.php:479
+msgid "Stop Animations"
+msgstr "Stop Animasi"
+
+#: app/src/Editor/EditorLocalization.php:478
+msgid "Click to rename"
+msgstr "Klik untuk mengubah nama"
+
+#: app/src/Editor/EditorLocalization.php:477
+msgid "Remind me later"
+msgstr "Ingatkan saya nanti"
+
+#: app/src/Editor/EditorLocalization.php:476
+msgid "Subscribe"
+msgstr "Berlangganan"
+
+#: app/src/Editor/EditorLocalization.php:475
+msgid "Your email address"
+msgstr "Alamat e-mail Anda"
+
+#: app/src/Editor/EditorLocalization.php:468
+msgid "Back to Settings"
+msgstr "Kembali ke Pengaturan"
+
+#: app/src/Editor/EditorLocalization.php:467
+msgid "Callbacks"
+msgstr "Callback"
+
+#: app/src/Editor/EditorLocalization.php:466
+msgid "Loading options"
+msgstr "Memuat pilihan..."
+
+#: app/src/Editor/EditorLocalization.php:377
+msgid "Text Shadow"
+msgstr "Bayangan Teks"
+
+#: app/src/Editor/EditorLocalization.php:376
+msgid "Vintage"
+msgstr "Vintage"
+
+#: app/src/Editor/EditorLocalization.php:323
+msgid "Remove"
+msgstr "Hapus"
+
+#: app/src/Editor/EditorLocalization.php:322
+msgid "ADD"
+msgstr "TAMBAH"
+
+#: app/src/Editor/EditorLocalization.php:321
+msgid "Spread"
+msgstr "Menyebar"
+
+#: app/src/Editor/EditorLocalization.php:320
+msgid "Shadow Position"
+msgstr "Posisi Bayangan"
+
+#: app/src/Editor/EditorLocalization.php:319
+msgid "Shadow color"
+msgstr "Warna banyangan"
+
+#: app/src/Editor/EditorLocalization.php:318
+msgid "Box shadow"
+msgstr "Bayangan kotak"
+
+#: app/src/Editor/EditorLocalization.php:317
+msgid "Brightness"
+msgstr "Kecerahan"
+
+#: app/src/Editor/EditorLocalization.php:316
+msgid "Blur"
+msgstr "Buram"
+
+#: app/src/Editor/EditorLocalization.php:315
+msgid "Reset"
+msgstr "Atur ulang"
+
+#: app/src/Editor/EditorLocalization.php:314
+msgid "Background blur"
+msgstr "Latar belakang buram"
+
+#: app/src/Editor/EditorLocalization.php:313
+msgid "Apply"
+msgstr "Terapkan"
+
+#: app/src/Editor/EditorLocalization.php:307
+msgid "Rotate Y"
+msgstr "Putar Y"
+
+#: app/src/Editor/EditorLocalization.php:306
+msgid "Rotate X"
+msgstr "Putar X"
+
+#: app/src/Editor/EditorLocalization.php:305
+msgid "Rotate"
+msgstr "Putar"
+
+#: app/src/Editor/EditorLocalization.php:300
+msgid "Custom"
+msgstr "Khusus"
+
+#: app/src/Editor/EditorLocalization.php:299
+msgid "Right"
+msgstr "Kanan"
+
+#: app/src/Editor/EditorLocalization.php:298
+msgid "Bottom"
+msgstr "Bawah"
+
+#: app/src/Editor/EditorLocalization.php:297
+msgid "Left"
+msgstr "Kiri"
+
+#: app/src/Editor/EditorLocalization.php:296
+msgid "Top"
+msgstr "Atas"
+
+#: app/src/Editor/EditorLocalization.php:291
+msgid "Clear Animation"
+msgstr "Bersihkan Animasi"
+
+#: app/src/Editor/EditorLocalization.php:292
+msgid "Preview Animation"
+msgstr "Pratinjau Animasi"
+
+#: app/src/Editor/EditorLocalization.php:293
+msgid "Preview All Animation"
+msgstr "Pratinjau Semua Animasi"
+
+#: app/src/Editor/EditorLocalization.php:290
+msgid "Duration"
+msgstr "Durasi"
+
+#: app/src/Editor/EditorLocalization.php:285
+msgid "Change animation"
+msgstr "Ubah animasi"
+
+#: app/src/Editor/EditorLocalization.php:275
+msgid "CSS selector"
+msgstr "Selektor CSS"
+
+#: app/src/Editor/EditorLocalization.php:272
+msgid "Address"
+msgstr "Alamat"
+
+#: app/src/Editor/EditorLocalization.php:270
+msgid "Pick slide"
+msgstr "Pilih slide"
+
+#: app/src/Editor/EditorLocalization.php:269
+msgid "Slide number"
+msgstr "Jumlah slide"
+
+#: app/src/Editor/EditorLocalization.php:271
+msgid "Select number"
+msgstr "Pilih angka"
+
+#: app/src/Editor/EditorLocalization.php:268
+msgid "Slide name"
+msgstr "Nama slide"
+
+#: app/src/Editor/EditorLocalization.php:267
+msgid "Previous slide"
+msgstr "Slide sebelumnya"
+
+#: app/src/Editor/EditorLocalization.php:266
+msgid "Next slide"
+msgstr "Slide selanjutnya"
+
+#: app/src/Editor/EditorLocalization.php:265
+msgid "Select element(s)"
+msgstr "Pilih elemen"
+
+#: app/src/Editor/EditorLocalization.php:263
+msgid "Hide"
+msgstr "Sembunyikan"
+
+#: app/src/Editor/EditorLocalization.php:262
+msgid "Show"
+msgstr "Tampilkan"
+
+#: app/src/Editor/EditorLocalization.php:249
+msgid "Click"
+msgstr "Klik"
+
+#: app/src/Editor/EditorLocalization.php:248
+msgid "Add Action"
+msgstr "Tambah Aksi"
+
+#: app/src/Editor/EditorLocalization.php:247
+msgid "Trigger"
+msgstr "Pemicu"
+
+#: app/src/Editor/EditorLocalization.php:246
+msgid "Action type"
+msgstr "Tipe aksi"
+
+#: app/src/Editor/EditorLocalization.php:237
+msgid "Line color"
+msgstr "Warna garis"
+
+#: app/src/Editor/EditorLocalization.php:239
+msgid "Icon color"
+msgstr "Warna ikon"
+
+#: app/src/Editor/EditorLocalization.php:235
+msgid "Loading"
+msgstr "Memuat"
+
+#: app/src/Editor/EditorLocalization.php:236
+msgid "Image source not found."
+msgstr "Sumber gambar tidak ditemukan."
+
+#: app/src/Editor/EditorLocalization.php:222
+msgid "locked"
+msgstr "dikunci"
+
+#: app/src/Editor/EditorLocalization.php:221
+msgid "hidden"
+msgstr "disembunyikan"
+
+#: app/src/Editor/EditorLocalization.php:219
+msgid "Decoration"
+msgstr "Dekorasi"
+
+#: app/src/Editor/EditorLocalization.php:218
+msgid "Transform"
+msgstr "Transform"
+
+#: app/src/Editor/EditorLocalization.php:217
+msgid "Direction"
+msgstr "Arah"
+
+#: app/src/Editor/EditorLocalization.php:216
+msgid "Alignment"
+msgstr "Perataan"
+
+#: app/src/Editor/EditorLocalization.php:215
+msgid "Letter space"
+msgstr "Jarak huruf"
+
+#: app/src/Editor/EditorLocalization.php:214
+msgid "Line Height"
+msgstr "Tinggi Baris"
+
+#: app/src/Editor/EditorLocalization.php:213
+msgid "Color"
+msgstr "Warna"
+
+#: app/src/Editor/EditorLocalization.php:212
+msgid "Size"
+msgstr "Ukuran"
+
+#: app/src/Editor/EditorLocalization.php:211
+msgid "Weight"
+msgstr "Bobot"
+
+#: app/src/Editor/EditorLocalization.php:210
+msgid "Font Face"
+msgstr "Font Face"
+
+#: app/src/Editor/EditorLocalization.php:209
+msgid "Typography"
+msgstr "Tipografi"
+
+#: app/src/Editor/EditorLocalization.php:208
+msgid "Bullet radius"
+msgstr "Radius bulatan"
+
+#: app/src/Editor/EditorLocalization.php:207
+msgid "Space"
+msgstr "Spasi"
+
+#: app/src/Editor/EditorLocalization.php:206
+msgid "Bullet height"
+msgstr "Tinggi bulatan"
+
+#: app/src/Editor/EditorLocalization.php:205
+msgid "Bullet width"
+msgstr "Lebar bulatan"
+
+#: app/src/Editor/EditorLocalization.php:204
+msgid "Bullets"
+msgstr "Bulatan"
+
+#: app/src/Editor/EditorLocalization.php:203
+msgid "Active bullet color"
+msgstr "Warna bulatan aktif"
+
+#: app/src/Editor/EditorLocalization.php:202
+msgid "Action"
+msgstr "Aksi"
+
+#: app/src/Editor/EditorLocalization.php:201
+msgid "Animation"
+msgstr "Animasi"
+
+#: app/src/Editor/EditorLocalization.php:200
+msgid "Arrow color"
+msgstr "Warna panah"
+
+#: app/src/Editor/EditorLocalization.php:199
+msgid "Hover"
+msgstr "Hover"
+
+#: app/src/Editor/EditorLocalization.php:198
+msgid "Options"
+msgstr "Pilihan"
+
+#: app/src/Editor/EditorLocalization.php:197
+msgid "Arrow Color"
+msgstr "Warna Panah"
+
+#: app/src/Editor/EditorLocalization.php:196
+msgid "Position"
+msgstr "Posisi"
+
+#: app/src/Editor/EditorLocalization.php:195
+msgid "Design"
+msgstr "Desain"
+
+#: app/src/Editor/EditorLocalization.php:194
+msgid "Reset position"
+msgstr "Atur ulang posisi"
+
+#: app/src/Editor/EditorLocalization.php:188
+msgid "Rotation"
+msgstr "Rotasi"
+
+#: app/src/Editor/EditorLocalization.php:187
+msgid "Height"
+msgstr "Tinggi"
+
+#: app/src/Editor/EditorLocalization.php:186
+msgid "Width"
+msgstr "Lebar"
+
+#: app/src/Editor/EditorLocalization.php:181
+msgid "Y Position"
+msgstr "Posisi Y"
+
+#: app/src/Editor/EditorLocalization.php:180
+msgid "X Position"
+msgstr "Posisi X"
+
+#: app/src/Editor/EditorLocalization.php:179
+msgid "Export Data"
+msgstr "Ekspor Data"
+
+#: app/src/Editor/EditorLocalization.php:173
+msgid "Tag"
+msgstr "Tag"
+
+#: app/src/Editor/EditorLocalization.php:174
+msgid "Link element"
+msgstr "Elemen tautan"
+
+#: app/src/Editor/EditorLocalization.php:175
+msgid "Open in new tab"
+msgstr "Buka di tab baru"
+
+#: app/src/Editor/EditorLocalization.php:159
+msgid "Padding"
+msgstr "Padding"
+
+#: app/src/Editor/EditorLocalization.php:158
+msgid "Background Color"
+msgstr "Warna Latar Belakang"
+
+#: app/src/Editor/EditorLocalization.php:157
+msgid "Select element"
+msgstr "Pilih elemen"
+
+#: app/src/Editor/EditorLocalization.php:156
+msgid "Responsive"
+msgstr "Responsif"
+
+#: app/src/Editor/EditorLocalization.php:145
+msgid "Paste"
+msgstr "Tempel"
+
+#: app/src/Editor/EditorLocalization.php:144
+msgid "Copy"
+msgstr "Salin"
+
+#: app/src/Editor/EditorLocalization.php:120
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: app/src/Editor/EditorLocalization.php:119
+msgid "YouTube"
+msgstr "YouTube"
+
+#: app/src/DataSources/Tags/Post.php:110
+#: app/src/Editor/EditorLocalization.php:105
+msgid "Date"
+msgstr "Tanggal"
+
+#: app/src/DataSources/Tags/Post.php:54
+#: app/src/Editor/EditorLocalization.php:104
+#: app/src/Modules/WPBakery/module.php:33
+msgid "Content"
+msgstr "Konten"
+
+#: app/src/DataSources/Tags/Post.php:68
+#: app/src/Editor/EditorLocalization.php:103
+msgid "Excerpt"
+msgstr "Kutipan"
+
+#: app/src/DataSources/Tags/Post.php:40
+#: app/src/Editor/EditorLocalization.php:101
+msgid "Title"
+msgstr "Judul"
+
+#: app/src/DataSources/Tags/Post.php:124
+#: app/src/Editor/EditorLocalization.php:99
+msgid "Author Name"
+msgstr "Nama Penulis"
+
+#: app/src/DataSources/Tags/Product.php:178
+#: app/src/Editor/EditorLocalization.php:86
+msgid "SKU"
+msgstr "SKU"
+
+#: app/src/Editor/EditorLocalization.php:85
+msgid "Description"
+msgstr "Keterangan"
+
+#: app/src/Editor/EditorLocalization.php:83
+msgid "Product Name"
+msgstr "Nama Produk"
+
+#: app/src/DataSources/Tags/Post.php:96
+#: app/src/Editor/EditorLocalization.php:82
+msgid "Featured Image"
+msgstr "Gambar Unggulan"
+
+#: app/src/Editor/EditorLocalization.php:81
+msgid "Read More"
+msgstr "Baca Selengkapnya"
+
+#: app/src/Editor/EditorLocalization.php:73
+msgid "Click Here"
+msgstr "Klik Di Sini"
+
+#: app/src/Editor/EditorLocalization.php:71
+msgid "Buttons"
+msgstr "Tombol"
+
+#: app/src/Editor/EditorLocalization.php:72
+msgid "Controls"
+msgstr "Control"
+
+#: app/src/Editor/EditorLocalization.php:69
+msgid "Videos"
+msgstr "Video"
+
+#: app/src/Editor/EditorLocalization.php:68
+msgid "Texts"
+msgstr "Teks"
+
+#: app/src/Editor/EditorLocalization.php:67
+msgid "Photos"
+msgstr "Foto"
+
+#: app/src/Editor/EditorLocalization.php:66
+msgid "Templates"
+msgstr "Template"
+
+#: app/src/Editor/EditorLocalization.php:59
+msgid "from"
+msgstr "dari"
+
+#: app/src/Editor/EditorLocalization.php:58
+msgid "by"
+msgstr "oleh"
+
+#: app/src/Editor/EditorLocalization.php:57
+msgid "Scroll to"
+msgstr "Gulir ke"
+
+#: app/src/Editor/EditorLocalization.php:56
+msgid "Go to slide"
+msgstr "Ke slide"
+
+#: app/src/Editor/EditorLocalization.php:45
+msgid "Youtube Slider"
+msgstr "Slider YouTube"
+
+#: app/src/DataSources/Tags/Product.php:26
+#: app/src/Editor/EditorLocalization.php:44
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: app/src/Editor/EditorLocalization.php:43
+msgid "Flickr Slider"
+msgstr "Slider Flickr"
+
+#: app/src/Editor/EditorLocalization.php:42
+msgid "Twitter Slider"
+msgstr "Slider Twitter"
+
+#: app/src/Editor/EditorLocalization.php:41
+msgid "Instagram Slider"
+msgstr "Slider Instagram"
+
+#: app/src/Editor/EditorLocalization.php:40
+msgid "Facebook Slider"
+msgstr "Slider Facebook"
+
+#: app/src/Editor/EditorLocalization.php:39
+msgid "Post Slider"
+msgstr "Slider Pos"
+
+#: app/src/Editor/EditorLocalization.php:38
+msgid "Custom Slider"
+msgstr "Slider Khusus"
+
+#: app/src/Editor/EditorLocalization.php:37
+msgid "Search for slider …"
+msgstr "Cari slider ..."
+
+#: app/src/Editor/EditorLocalization.php:36
+msgid "Import"
+msgstr "Impor"
+
+#: app/src/Editor/EditorLocalization.php:35
+msgid "Select All"
+msgstr "Pilih Semua"
+
+#: app/src/Editor/EditorLocalization.php:34
+msgid "Clear Selected"
+msgstr "Batalkan Pilihan"
+
+#: app/src/Editor/EditorLocalization.php:33
+msgid "Export"
+msgstr "Ekspor"
+
+#: app/src/Editor/EditorLocalization.php:31
+msgid "Close"
+msgstr "Tutup"
+
+#: app/src/Editor/EditorLocalization.php:22
+msgid "Duplicate"
+msgstr "Gandakan"
+
+#: app/src/Editor/EditorLocalization.php:21
+msgid "Delete"
+msgstr "Hapus"
+
+#: app/src/Editor/EditorLocalization.php:20
+msgid "Edit"
+msgstr "Edit"
+
+#: app/src/Editor/EditorLocalization.php:19
+msgid "Preview"
+msgstr "Pratinjau"
+
+#: app/src/Editor/EditorLocalization.php:18
+msgid "Last Modify"
+msgstr "Terakhir Diubah"
+
+#: app/src/Editor/EditorLocalization.php:16
+msgid "Slides"
+msgstr "Slide"
+
+#: app/src/Editor/EditorLocalization.php:15
+msgid "Name"
+msgstr "Nama"
+
+#: app/src/Editor/EditorLocalization.php:14
+msgid "import slider"
+msgstr "impor slider"
+
+#: app/src/Editor/EditorLocalization.php:13
+msgid "or"
+msgstr "atau"
+
+#: app/src/Editor/EditorLocalization.php:12
+msgid "Create Slider"
+msgstr "Buat Slider"
+
+#. Author of the plugin
+msgid "Averta"
+msgstr "Averta"
+
+#. Author URI of the plugin
+msgid "http://averta.net"
+msgstr "http://averta.net"
+
+#. Plugin URI of the plugin
+msgid "https://depicter.com"
+msgstr "https://depicter.com"
+
+#. Plugin Name of the plugin
+#: app/src/Dashboard/DashboardPage.php:38
+#: app/src/Dashboard/DashboardPage.php:39 app/src/Editor/Editor.php:77
+#: app/src/Modules/Beaver/module.php:13 app/src/Modules/Beaver/module.php:17
+#: app/src/Modules/Divi/includes/modules/depicter/depicter.php:19
+#: app/src/Modules/Oxygen/module.php:21 app/src/Modules/WPBakery/module.php:31
+msgid "Depicter"
+msgstr "Depicter"
+
+#: app/src/Editor/EditorLocalization.php:586
+msgid "Move"
+msgstr "Pindah"
+
+#: app/src/Editor/EditorLocalization.php:585
+msgid "Fade"
+msgstr "Memudar"
+
+#: app/src/Dashboard/DashboardPage.php:103
+#: app/src/Dashboard/DashboardSetting.php:59
+#: app/src/Editor/EditorLocalization.php:584
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: app/src/Editor/EditorLocalization.php:583
+msgid "Buy it here."
+msgstr "Beli di sini."
+
+#: app/src/Editor/EditorLocalization.php:576
+msgid "You may need to"
+msgstr "Anda mungkin perlu"
+
+#: app/src/Editor/EditorLocalization.php:577
+msgid "purchase another license here."
+msgstr "beli lisensi lainnya di sini."
+
+#: app/src/Editor/EditorLocalization.php:579
+msgid "read more here."
+msgstr "baca lebih lanjut di sini."
+
+#: app/src/Editor/EditorLocalization.php:563
+msgid "Recent colors"
+msgstr "Warna saat ini"
+
+#: app/src/Editor/EditorLocalization.php:564
+msgid "Load assets on all pages"
+msgstr "Muat komponen pada semua halaman"
+
+#: app/src/Editor/EditorLocalization.php:528
+msgid "Lets Start!"
+msgstr "Ayo Mulai!"
+
+#: app/src/Editor/EditorLocalization.php:513
+msgid "Back to Dashboard"
+msgstr "Kembali ke Dasbor"
+
+#: app/src/Editor/EditorLocalization.php:494
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: app/src/Editor/EditorLocalization.php:493
+msgid "Feedback"
+msgstr "Masukan"
+
+#: app/src/Editor/EditorLocalization.php:470
+msgid "Thank you!"
+msgstr "Terima kasih!"
+
+#: app/src/Editor/EditorLocalization.php:464
+msgid "Sliding animation"
+msgstr "Animasi sliding"
+
+#: app/src/Editor/EditorLocalization.php:463
+msgid "Navigation"
+msgstr "Navigasi"
+
+#: app/src/Editor/EditorLocalization.php:454
+msgid "Vertical"
+msgstr "Vertikal"
+
+#: app/src/Editor/EditorLocalization.php:453
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: app/src/Editor/EditorLocalization.php:452
+msgid "Sliding direction"
+msgstr "Arah sliding"
+
+#: app/src/Editor/EditorLocalization.php:451
+msgid "Sliding transition type"
+msgstr "Tipe transisi sliding"
+
+#: app/src/Editor/EditorLocalization.php:450
+msgid "Type of permalink"
+msgstr "Tipe permalink"
+
+#: app/src/Editor/EditorLocalization.php:446
+msgid "RTL"
+msgstr "RTL"
+
+#: app/src/Editor/EditorLocalization.php:445
+msgid "Random order slides"
+msgstr "Slide urutan acak"
+
+#: app/src/Editor/EditorLocalization.php:444
+msgid "Loop navigation"
+msgstr "Navigasi loop"
+
+#: app/src/Editor/EditorLocalization.php:435
+msgid "Loading symbol"
+msgstr "Simbol loading"
+
+#: app/src/Editor/EditorLocalization.php:430
+msgid "Lazyload type"
+msgstr "Tipe Lazyload"
+
+#: app/src/Editor/EditorLocalization.php:425
+msgid "Max Height"
+msgstr "Tinggi Maksimal"
+
+#: app/src/Editor/EditorLocalization.php:424
+msgid "Min Height"
+msgstr "Tinggi Minimal"
+
+#: app/src/Editor/EditorLocalization.php:416
+msgid "Slider layout"
+msgstr "Tata letak slider"
+
+#: app/src/Editor/EditorLocalization.php:412
+msgid "Slider name"
+msgstr "Nama slider"
+
+#: app/src/Editor/EditorLocalization.php:406
+msgid "New Slide"
+msgstr "Slide Baru"
+
+#: app/src/Dashboard/DashboardPage.php:107
+#: app/src/Dashboard/DashboardSetting.php:131
+#: app/src/DataSources/Tags/Post.php:25
+#: app/src/Editor/EditorLocalization.php:402
+#: app/src/Modules/Beaver/module.php:113
+msgid "General"
+msgstr "Umum"
+
+#: app/src/Editor/EditorLocalization.php:395
+msgid "Loop video"
+msgstr "Video loop"
+
+#: app/src/Editor/EditorLocalization.php:394
+msgid "Remove background image"
+msgstr "Hapus gambar latar belakang"
+
+#: app/src/Editor/EditorLocalization.php:393
+msgid "Image alt"
+msgstr "Alt gambar"
+
+#: app/src/Editor/EditorLocalization.php:392
+msgid "Color overlay"
+msgstr "Overlay warna"
+
+#: app/src/Editor/EditorLocalization.php:374
+msgid "Street"
+msgstr "Jalan"
+
+#: app/src/Editor/EditorLocalization.php:368
+msgid "Drama"
+msgstr "Drama"
+
+#: app/src/Editor/EditorLocalization.php:367
+msgid "Cali"
+msgstr "Cali"
+
+#: app/src/Editor/EditorLocalization.php:366
+msgid "Hue"
+msgstr "Hue"
+
+#: app/src/Editor/EditorLocalization.php:533
+msgid "Restore Purchase"
+msgstr "Kembalikan Pembelian"
+
+#: app/src/Editor/EditorLocalization.php:64
+msgid "Twitter elements"
+msgstr "Elemen Twitter"
+
+#: app/src/Editor/EditorLocalization.php:27
+msgid "Sort by Type"
+msgstr "Urutkan Tipe"
+
+#: app/src/Editor/EditorLocalization.php:348
+msgid "Send to Back"
+msgstr "Pindahkan ke Belakang"
+
+#: app/src/Editor/EditorLocalization.php:51
+msgid "Blank Slider"
+msgstr "Slider Kosong"
+
+#: app/src/Editor/EditorLocalization.php:417
+msgid "Fullscreen margin"
+msgstr "Margin selayar penuh"
+
+#: app/src/Editor/EditorLocalization.php:443
+msgid "Pause at last slide"
+msgstr "Hentikan pada slide terakhir"
+
+#: app/src/Editor/EditorLocalization.php:460
+msgid "Content wrapper size"
+msgstr "Ukuran wrapper konten"
+
+#: app/src/Editor/EditorLocalization.php:28
+msgid "What is legacy slider?"
+msgstr "Apa itu slider legacy?"
+
+#: app/src/Editor/EditorLocalization.php:516
+msgid "This slug is already in use."
+msgstr "Slug telah dipakai."
+
+#: app/src/Editor/EditorLocalization.php:397
+msgid "Pause on slide change"
+msgstr "Hentikan saat pergantian slide"
+
+#: app/src/Editor/EditorLocalization.php:503
+msgid "You have some unsaved changes. Leaving site?"
+msgstr "Anda memiliki perubahan yang belum disimpan. Keluar dari situs?"
+
+#: app/src/Editor/EditorLocalization.php:255
+msgid "Video Ended"
+msgstr "Video Berakhir"
+
+#: app/src/Editor/EditorLocalization.php:243
+msgid "Show / Hide elements"
+msgstr "Tampilkan / Sembunyikan elemen"
+
+#: app/src/Editor/EditorLocalization.php:351
+msgid "Border style"
+msgstr "Style border"
+
+#: app/src/Editor/EditorLocalization.php:232
+msgid "Mute video"
+msgstr "Senyapkan video"
+
+#: app/src/Editor/EditorLocalization.php:97
+msgid "Average rating"
+msgstr "Rating rata-rata"
+
+#: app/src/Editor/EditorLocalization.php:125
+msgid "Search..."
+msgstr "Cari..."
+
+#: app/src/Editor/EditorLocalization.php:122
+msgid "Upload or insert a video"
+msgstr "Unggah atau sisipkan video"
+
+#: app/src/Editor/EditorLocalization.php:244
+msgid "Slideshow Control"
+msgstr "Kontrol Slideshow"
+
+#: app/src/Editor/EditorLocalization.php:150
+msgid "Copy animation"
+msgstr "Salin animasi"
+
+#: app/src/Editor/EditorLocalization.php:146
+msgid "Copy styles"
+msgstr "Salin gaya"
+
+#: app/src/Editor/EditorLocalization.php:190
+msgid "Arrange"
+msgstr "Susun"
+
+#: app/src/Editor/EditorLocalization.php:349
+msgid "Border"
+msgstr "Garis"
+
+#: app/src/Editor/EditorLocalization.php:352
+msgid "Border Size"
+msgstr "Ukuran Garis"
+
+#: app/src/Editor/EditorLocalization.php:426
+msgid "Tablet content width"
+msgstr "Lebar konten tablet"
+
+#: app/src/Editor/EditorLocalization.php:147
+msgid "Paste styles"
+msgstr "Tempel gaya"
+
+#: app/src/Editor/EditorLocalization.php:90
+msgid "Add to cart button"
+msgstr "Tombol tambahkan ke keranjang"
+
+#: app/src/Editor/EditorLocalization.php:382
+msgid "Remove slide"
+msgstr "Hapus slide"
+
+#: app/src/Editor/EditorLocalization.php:88
+msgid "Sale price"
+msgstr "Harga obral"
+
+#: app/src/Editor/EditorLocalization.php:256
+msgid "Video Paused"
+msgstr "Video Dijeda"
+
+#: app/src/Editor/EditorLocalization.php:92
+msgid "Tags"
+msgstr "Tag"
+
+#: app/src/Editor/EditorLocalization.php:121
+msgid "My Videos"
+msgstr "Video Saya"
+
+#: app/src/Editor/EditorLocalization.php:242
+msgid "Go to URL"
+msgstr "Buka URL"
+
+#: app/src/Editor/EditorLocalization.php:24
+msgid "Sort by Name"
+msgstr "Urutkan Nama"
+
+#: app/src/Editor/EditorLocalization.php:76
+msgid "Navigation arrows"
+msgstr "Panah navigasi"
+
+#: app/src/Editor/EditorLocalization.php:132
+msgid "Bring to front"
+msgstr "Pindahkan ke depan"
+
+#: app/src/Editor/EditorLocalization.php:151
+msgid "Paste animation"
+msgstr "Tempel animasi"
+
+#: app/src/Editor/EditorLocalization.php:385
+msgid "Slide content width"
+msgstr "Lebar konten slide"
+
+#: app/src/Editor/EditorLocalization.php:128
+msgid "Copy to clipboard"
+msgstr "Salin ke papan klip"
+
+#: app/src/Editor/EditorLocalization.php:61
+msgid "WooCommerce elements"
+msgstr "Elemen WooCommerce"
+
+#: app/src/Editor/EditorLocalization.php:345
+msgid "Bring Forward"
+msgstr "Majukan"
+
+#: app/src/Editor/EditorLocalization.php:141
+msgid "Crop"
+msgstr "Pangkas"
+
+#: app/src/Editor/EditorLocalization.php:308
+msgid "Skew X"
+msgstr "Miring X"
+
+#: app/src/Editor/EditorLocalization.php:127
+msgid "Upload"
+msgstr "Unggah"
+
+#: app/src/Editor/EditorLocalization.php:131
+msgid "Bring forward"
+msgstr "Majukan"
+
+#: app/src/Editor/EditorLocalization.php:258
+msgid "Pause video"
+msgstr "Jeda video"
+
+#: app/src/Editor/EditorLocalization.php:129
+msgid "back to dashboard"
+msgstr "kembali ke dasbor"
+
+#: app/src/Editor/EditorLocalization.php:137
+msgid "Group"
+msgstr "Grup"
+
+#: app/src/Editor/EditorLocalization.php:220
+msgid "Text Wrapping"
+msgstr "Kemas teks"
+
+#: app/src/Editor/EditorLocalization.php:371
+msgid "Grayscale"
+msgstr "Abu-abu"
+
+#: app/src/Editor/EditorLocalization.php:123
+msgid "Embed video"
+msgstr "Sematkan video"
+
+#: app/src/Editor/EditorLocalization.php:386
+msgid "Slide content height"
+msgstr "Tinggi konten slide"
+
+#: app/src/Editor/EditorLocalization.php:358
+msgid "Fonts"
+msgstr "Font"
+
+#: app/src/Editor/EditorLocalization.php:380
+msgid "Paste element here"
+msgstr "Tempel elemen di sini"
+
+#: app/src/Editor/EditorLocalization.php:414
+msgid "Slider slug"
+msgstr "Slug slider"
+
+#: app/src/Editor/EditorLocalization.php:84
+msgid "Go to product page"
+msgstr "Buka halaman produk"
+
+#: app/src/Editor/EditorLocalization.php:108
+msgid "My Photos"
+msgstr "Foto Saya"
+
+#: app/src/Editor/EditorLocalization.php:60
+msgid "WordPress elements"
+msgstr "Elemen WordPress"
+
+#: app/src/Editor/EditorLocalization.php:168
+msgid "Scale"
+msgstr "Skala"
+
+#: app/src/Editor/EditorLocalization.php:98
+msgid "Review counts"
+msgstr "Jumlah ulasan"
+
+#: app/src/Editor/EditorLocalization.php:133
+msgid "Send backward"
+msgstr "Mundurkan"
+
+#: app/src/Editor/EditorLocalization.php:135
+msgid "Show on all slides"
+msgstr "Tampilkan pada semua slide"
+
+#: app/src/Editor/EditorLocalization.php:399
+msgid "Link slide"
+msgstr "Tautkan slide"
+
+#: app/src/Editor/EditorLocalization.php:457
+msgid "Dolly effect"
+msgstr "Efek Dolly"
+
+#: app/src/Editor/EditorLocalization.php:26
+msgid "Sort by Slides"
+msgstr "Urutkan Slide"
+
+#: app/src/Editor/EditorLocalization.php:167
+msgid "Background color"
+msgstr "Warna latar belakang"
+
+#: app/src/Editor/EditorLocalization.php:343
+msgid "Dynamic source"
+msgstr "Sumber dinamis"
+
+#: app/src/Editor/EditorLocalization.php:102
+msgid "Go to post page"
+msgstr "Buka halaman pos"
+
+#: app/src/Editor/EditorLocalization.php:169
+msgid "Enable hover animation"
+msgstr "Aktifkan animasi hover"
+
+#: app/src/Editor/EditorLocalization.php:140
+msgid "Unlock"
+msgstr "Buka"
+
+#: app/src/Editor/EditorLocalization.php:346
+msgid "Send Backward"
+msgstr "Mundurkan"
+
+#: app/src/Editor/EditorLocalization.php:390
+msgid "Background position"
+msgstr "Posisi latar belakang"
+
+#: app/src/Editor/EditorLocalization.php:360
+msgid "Center"
+msgstr "Tengah"
+
+#: app/src/Editor/EditorLocalization.php:228
+msgid "Embed Video URL"
+msgstr "Sisipkan URL Video"
+
+#: app/src/Editor/EditorLocalization.php:365
+msgid "Saturation"
+msgstr "Saturasi"
+
+#: app/src/Editor/EditorLocalization.php:410
+msgid "Custom styles"
+msgstr "Gaya khusus"
+
+#: app/src/Editor/EditorLocalization.php:363
+msgid "Filter preset"
+msgstr "Preset filter"
+
+#: app/src/Editor/EditorLocalization.php:439
+msgid "Keyboard navigation"
+msgstr "Navigasi keyboard"
+
+#: app/src/Database/Repository/DocumentRepository.php:526
+#: app/src/Database/Repository/DocumentRepository.php:549
+msgid "Untitled Slider"
+msgstr "Slider Tanpa Judul"
+
+#: app/src/Editor/EditorLocalization.php:46
+msgid "Back to sliders list"
+msgstr "Buka daftar slider"
+
+#: app/src/Editor/EditorLocalization.php:149
+msgid "Paste position"
+msgstr "Tempel posisi"
+
+#: app/src/Editor/EditorLocalization.php:110
+msgid "Shapes"
+msgstr "Bentuk"
+
+#: app/src/Editor/EditorLocalization.php:17
+msgid "Slug"
+msgstr "Slug"
+
+#: app/src/Editor/EditorLocalization.php:124
+msgid "Stock videos"
+msgstr "Stok video"
+
+#: app/src/Editor/EditorLocalization.php:25
+msgid "Sort by Date"
+msgstr "Urutkan Tanggal"
+
+#: app/src/Editor/EditorLocalization.php:259
+msgid "Stop video"
+msgstr "Stop video"
+
+#: app/src/Editor/EditorLocalization.php:70
+msgid "Shapes and Vectors"
+msgstr "Bentuk dan Vektor"
+
+#: app/src/Editor/EditorLocalization.php:148
+msgid "Copy position"
+msgstr "Salin posisi"
+
+#: app/src/Editor/EditorLocalization.php:163
+msgid "Fill Color"
+msgstr "Warna Isi"
+
+#: app/src/Editor/EditorLocalization.php:161
+msgid "Opacity"
+msgstr "Opasitas"
+
+#: app/src/Editor/EditorLocalization.php:350
+msgid "Border Color"
+msgstr "Warna Garis Tepi"
+
+#: app/src/Editor/EditorLocalization.php:403
+msgid "Advanced"
+msgstr "Tingkat lanjut"
+
+#: app/src/Editor/EditorLocalization.php:126
+msgid "Insert"
+msgstr "Sisipkan"
+
+#: app/src/Editor/EditorLocalization.php:362
+msgid "Filter"
+msgstr "Filter"
+
+#: app/src/Editor/EditorLocalization.php:381
+msgid "Duplicate slide"
+msgstr "Gandakan slide"
+
+#: app/src/Editor/EditorLocalization.php:30
+msgid "Install Legacy Slider"
+msgstr "Instal Slider Legacy"
+
+#: app/src/Editor/EditorLocalization.php:100
+msgid "Go to author page"
+msgstr "Buka halaman penulis"
+
+#: app/src/Editor/EditorLocalization.php:53
+msgid "Importing Template"
+msgstr "Mengimpor Template"
+
+#: app/src/Editor/EditorLocalization.php:383
+msgid "Remove background"
+msgstr "Hapus latar belakang"
+
+#: app/src/Editor/EditorLocalization.php:87
+msgid "Regular price"
+msgstr "Harga normal"
+
+#: app/src/Editor/EditorLocalization.php:166
+msgid "Enable hover"
+msgstr "Aktifkan hover"
+
+#: app/src/Editor/EditorLocalization.php:276
+msgid "Pause slideshow"
+msgstr "Jeda slideshow"
+
+#: app/src/Editor/EditorLocalization.php:261
+msgid "Delay"
+msgstr "Tunda"
+
+#: app/src/Editor/EditorLocalization.php:171
+msgid "Element name"
+msgstr "Nama elemen"
+
+#: app/src/Editor/EditorLocalization.php:77
+msgid "Navigation bullets"
+msgstr "Bulatan navigasi"
+
+#: app/src/Editor/EditorLocalization.php:442
+msgid "Pause on hover"
+msgstr "Jeda saat hover"
+
+#: app/src/Editor/EditorLocalization.php:496
+msgid "PHP code"
+msgstr "Kode PHP"
+
+#: app/src/Editor/EditorLocalization.php:118
+msgid "Combination styles"
+msgstr "Gaya kombinasi"
+
+#: app/src/Editor/EditorLocalization.php:189
+msgid "Flip"
+msgstr "Balik"
+
+#: app/src/Editor/EditorLocalization.php:106
+msgid "Read more button"
+msgstr "Tombol baca lebih lanjut"
+
+#: app/src/Editor/EditorLocalization.php:63
+msgid "Facebook elements"
+msgstr "Elemen Facebook"
+
+#: app/src/Editor/EditorLocalization.php:401
+msgid "Slideshow Duration"
+msgstr "Durasi Slideshow"
+
+#: app/src/Editor/EditorLocalization.php:227
+msgid "video settings"
+msgstr "pengaturan video"
+
+#: app/src/Editor/EditorLocalization.php:581
+msgid "Activate your license here"
+msgstr "Aktifkan lisensi Anda di sini"
+
+#: app/src/Editor/EditorLocalization.php:254
+msgid "Video Start"
+msgstr "Video Mulai"
+
+#: app/src/Editor/EditorLocalization.php:91
+#: app/src/WordPress/ContentTypesServiceProvider.php:91
+msgid "Category"
+msgstr "Kategori"
+
+#: app/src/Editor/EditorLocalization.php:456
+msgid "Light effect"
+msgstr "Efek cahaya"
+
+#: app/src/Editor/EditorLocalization.php:139
+msgid "Lock"
+msgstr "Kunci"
+
+#: app/src/Editor/EditorLocalization.php:160
+msgid "Corner Radius"
+msgstr "Radius Sudut"
+
+#: app/src/Editor/EditorLocalization.php:96
+msgid "Rating counts"
+msgstr "Total rating"
+
+#: app/src/Editor/EditorLocalization.php:408
+msgid "Open slides panel"
+msgstr "Buka panel slide"
+
+#: app/src/Editor/EditorLocalization.php:379
+msgid "Copy selected elements"
+msgstr "Salin elemen yang dipilih"
+
+#: app/src/Editor/EditorLocalization.php:356
+msgid "Flip Vertical"
+msgstr "Balik Vertikal"
+
+#: app/src/Editor/EditorLocalization.php:421
+msgid "Auto height"
+msgstr "Tinggi otomatis"
+
+#: app/src/Editor/EditorLocalization.php:284
+msgid "Animation out options"
+msgstr "Pilihan animasi keluar"
+
+#: app/src/Editor/EditorLocalization.php:226
+msgid "You need to add a video link through the right panel."
+msgstr "Anda harus menambahkan tautan video dari panel kanan."
+
+#: app/src/Editor/EditorLocalization.php:523
+msgid "Element name is already exist please try another name"
+msgstr "Nama elemen sudah ada, mohon gunakan nama lainnya"
+
+#: app/src/Editor/EditorLocalization.php:251
+msgid "Mouse Out"
+msgstr "Mouse Keluar"
+
+#: app/src/Editor/EditorLocalization.php:238
+msgid "Thickness"
+msgstr "Ketebalan"
+
+#: app/src/Editor/EditorLocalization.php:112
+msgid "My Vectors"
+msgstr "Vektor Saya"
+
+#: app/src/Editor/EditorLocalization.php:413
+msgid "The entered name is not valid."
+msgstr "Nama yang digunakan tidak valid."
+
+#: app/src/Editor/EditorLocalization.php:162
+msgid "Blending mode"
+msgstr "Mode perpaduan"
+
+#: app/src/Editor/EditorLocalization.php:245
+msgid "Background Video Playback"
+msgstr "Latar Belakang Playback Video"
+
+#: app/src/Editor/EditorLocalization.php:341
+msgid "Publish changes"
+msgstr "Publikasikan perubahan"
+
+#: app/src/Editor/EditorLocalization.php:223
+msgid "Source not found"
+msgstr "Sumber tidak ditemukan"
+
+#: app/src/Editor/EditorLocalization.php:234
+msgid "Limit related videos to the same channel"
+msgstr "Batasi video terkait pada channel yang sama"
+
+#: app/src/Editor/EditorLocalization.php:165
+msgid "Stroke width"
+msgstr "Ketebalan stroke"
+
+#: app/src/Editor/EditorLocalization.php:109
+msgid "Upload or insert a photo"
+msgstr "Unggah atau sisipkan foto"
+
+#: app/src/Editor/EditorLocalization.php:107
+msgid "Stock Photos"
+msgstr "Stok Foto"
+
+#: app/src/Editor/EditorLocalization.php:438
+msgid "Touch swipe gesture"
+msgstr "Gestur touch swipe"
+
+#: app/src/Editor/EditorLocalization.php:594
+msgid "Provide us the details"
+msgstr "Sediakan detail"
+
+#: app/src/Editor/EditorLocalization.php:326
+msgid "Document visibility changed"
+msgstr "Visibilitas dokumen diubah"
+
+#: app/src/Editor/EditorLocalization.php:241
+msgid "Enable loop playback"
+msgstr "Aktifkan playback loop"
+
+#: app/src/Editor/EditorLocalization.php:357
+msgid "Recently Used"
+msgstr "Terakhir Digunakan"
+
+#: app/src/Editor/EditorLocalization.php:440
+msgid "Mouse wheel navigation"
+msgstr "Navigasi roda mouse"
+
+#: app/src/Editor/EditorLocalization.php:324
+msgid "After DOM ready"
+msgstr "Setelah DOM ready"
+
+#: app/src/Editor/EditorLocalization.php:95
+msgid "Total sales"
+msgstr "Total penjualan"
+
+#: app/src/Editor/EditorLocalization.php:113
+msgid "Upload or insert a vector image"
+msgstr "Unggah atau sisipkan gambar vektor"
+
+#: app/src/Editor/EditorLocalization.php:288
+msgid "Interactive animation"
+msgstr "Animasi interaktif"
+
+#: app/src/Editor/EditorLocalization.php:359
+msgid "Hide over this slide"
+msgstr "Sembunyikan dari slide ini"
+
+#: app/src/Editor/EditorLocalization.php:229
+msgid "Autoplay"
+msgstr "Putar otomatis"
+
+#: app/src/Editor/EditorLocalization.php:52
+msgid "Are you sure you want to close?"
+msgstr "Anda yakin ingin menutup?"
+
+#: app/src/Editor/EditorLocalization.php:111
+msgid "Stock Vectors"
+msgstr "Stok Vektor"
+
+#: app/src/Editor/EditorLocalization.php:278
+msgid "Restart slideshow"
+msgstr "Restart slideshow"
+
+#: app/src/Editor/EditorLocalization.php:436
+msgid "Swipe navigation"
+msgstr "Navigasi swipe"
+
+#: app/src/Editor/EditorLocalization.php:177
+msgid "Custom style"
+msgstr "Gaya khusus"
+
+#: app/src/Editor/EditorLocalization.php:273
+msgid "After the slider"
+msgstr "Setelah slider"
+
+#: app/src/Editor/EditorLocalization.php:378
+msgid "Hide on"
+msgstr "Sembunyikan pada"
+
+#: app/src/Editor/EditorLocalization.php:441
+msgid "Auto slideshow"
+msgstr "Slideshow otomatis"
+
+#: app/src/Editor/EditorLocalization.php:75
+msgid "Controls set"
+msgstr "Grup kontrol"
+
+#: app/src/Editor/EditorLocalization.php:301
+msgid "Movement"
+msgstr "Pergerakan"
+
+#: app/src/Editor/EditorLocalization.php:423
+msgid "Keep aspect ratio on resize"
+msgstr "Pertahankan rasio aspek saat dibuah ukurannya"
+
+#: app/src/Editor/EditorLocalization.php:65
+msgid "Flickr elements"
+msgstr "Elemen Flickr"
+
+#: app/src/Editor/EditorLocalization.php:142
+msgid "Set as slide background"
+msgstr "Pilih sebagai latar belakang slide"
+
+#: app/src/Editor/EditorLocalization.php:192
+msgid "Responsive resize"
+msgstr "Ubah ukuran responsif"
+
+#: app/src/Editor/EditorLocalization.php:407
+msgid "Close slides panel"
+msgstr "Tutup panel slide"
+
+#: app/src/Editor/EditorLocalization.php:164
+msgid "Stroke Color"
+msgstr "Warna Stoke"
+
+#: app/src/Editor/EditorLocalization.php:54
+msgid "Search for templates …"
+msgstr "Cari template …"
+
+#: app/src/Editor/EditorLocalization.php:340
+msgid "Last publish"
+msgstr "Publikasi terakhir"
+
+#: app/src/Editor/EditorLocalization.php:231
+msgid "Pause on slide changes"
+msgstr "Jeda saat slide berganti"
+
+#: app/src/Editor/EditorLocalization.php:455
+msgid "Space between slides"
+msgstr "Jarak antar slide"
+
+#: app/src/Editor/EditorLocalization.php:587
+msgid "URL path style (/name/index/)"
+msgstr "Format path URL (/nama/indeks/)"
+
+#: app/src/Editor/EditorLocalization.php:409
+msgid "Slider class name"
+msgstr "Nama class slider"
+
+#: app/src/Editor/EditorLocalization.php:355
+msgid "Flip Horizontal"
+msgstr "Balik Horisontal"
+
+#: app/src/Editor/EditorLocalization.php:514
+msgid "Restore to Last Publish"
+msgstr "Kembalikan Publikasi Terakhir"
+
+#: app/src/Editor/EditorLocalization.php:114
+msgid "Add Heading Text"
+msgstr "Tambah Teks Heading"
+
+#: app/src/DataSources/Tags/Product.php:164
+#: app/src/Editor/EditorLocalization.php:89
+msgid "In stock quantity"
+msgstr "Jumlah stok"
+
+#: app/src/Editor/EditorLocalization.php:153
+msgid "Reset responsive positions"
+msgstr "Reset posisi responsif"
+
+#: app/src/Editor/EditorLocalization.php:429
+msgid "Mobile content height"
+msgstr "Tinggi konten ponsel"
+
+#: app/src/Editor/EditorLocalization.php:398
+msgid "Remove background video"
+msgstr "Hapus video latar belakang"
+
+#: app/src/Editor/EditorLocalization.php:335
+msgid "Sliding change ended"
+msgstr "Akhir pegantian slide"
+
+#: app/src/Editor/EditorLocalization.php:32
+msgid "Are you sure you want to delete selected slider(s)?"
+msgstr "Apakah Anda yakin ingin menghapus slider yang dipilih?"
+
+#: app/src/Editor/EditorLocalization.php:279
+msgid "Toggle slideshow state"
+msgstr "Alihkan kondisi slideshow"
+
+#: app/src/Editor/EditorLocalization.php:388
+msgid "This slide name is already exists. Please try another name."
+msgstr "Nama slide sudah ada. Silakan coba nama lainnya."
+
+#: app/src/Editor/EditorLocalization.php:230
+msgid "Disabling this option stops the video upon slide change. So that video starts from beginning next time."
+msgstr "Menonaktifkan opsi ini akan menghentikan video setelah pergantian slide. Jadi video dimulai dari awal waktu berikutnya."
+
+#: app/src/Editor/EditorLocalization.php:143
+msgid "Reset crop"
+msgstr "Batalkan potongan"
+
+#: app/src/Editor/EditorLocalization.php:47
+msgid "Choose the new slider type"
+msgstr "Pilih tipe slider baru"
+
+#: app/src/Editor/EditorLocalization.php:11
+msgid "You don’t have any sliders yet"
+msgstr "Anda belum punya slider"
+
+#: app/src/Editor/EditorLocalization.php:252
+msgid "Video In"
+msgstr "Video Masuk"
+
+#: app/src/Editor/EditorLocalization.php:428
+msgid "Mobile content width"
+msgstr "Lebar konten ponsel"
+
+#: app/src/Editor/EditorLocalization.php:364
+msgid "Contrast"
+msgstr "Kontras"
+
+#: app/src/Editor/EditorLocalization.php:582
+msgid "Don’t have the pro license?"
+msgstr "Tidak punya lisensi pro?"
+
+#: app/src/Editor/EditorLocalization.php:274
+msgid "To an HTML element"
+msgstr "Menjadi elemen HTML"
+
+#: app/src/Editor/EditorLocalization.php:250
+msgid "Mouse In"
+msgstr "Mouse In"
+
+#: app/src/Editor/EditorLocalization.php:304
+msgid "Animation timing"
+msgstr "Pengaturan waktu animasi"
+
+#: app/src/Editor/EditorLocalization.php:115
+msgid "Add Subheading Text"
+msgstr "Tambah Teks Subjudul"
+
+#: app/src/Editor/EditorLocalization.php:264
+msgid "Toggle visibility"
+msgstr "Beralih visibilitas"
+
+#: app/src/Editor/EditorLocalization.php:253
+msgid "Video Out"
+msgstr "Video Out"
+
+#: app/src/Editor/EditorLocalization.php:93
+msgid "Date on sale from"
+msgstr "Tanggal awal diskon"
+
+#: app/src/Editor/EditorLocalization.php:332
+msgid "Slideshow timer reset"
+msgstr "Atur ulang waktu slideshow"
+
+#: app/src/Editor/EditorLocalization.php:55
+msgid "Sorry, we couldn't find any items here."
+msgstr "Maaf, kami tidak dapat menemukan item apa pun di sini."
+
+#: app/src/Editor/EditorLocalization.php:461
+msgid "Responsive content sizes"
+msgstr "Ukuran konten responsif"
+
+#: app/src/Editor/EditorLocalization.php:155
+msgid "Reset responsive animations"
+msgstr "Atur ulang animasi responsif"
+
+#: app/src/Editor/EditorLocalization.php:62
+msgid "Instagram elements"
+msgstr "Elemen Instagram"
+
+#: app/src/Editor/EditorLocalization.php:347
+msgid "Bring to Front"
+msgstr "Pindahkan ke Depan"
+
+#: app/src/Editor/EditorLocalization.php:23
+msgid "No matching document found."
+msgstr "Tidak ditemukan dokumen yang cocok."
+
+#: app/src/Editor/EditorLocalization.php:578
+msgid "You may want to transfer your license,"
+msgstr "Anda mungkin ingin mentransfer lisensi Anda,"
+
+#: app/src/Editor/EditorLocalization.php:342
+msgid "You have unpublished changes"
+msgstr "Anda memiliki perubahan yang tidak dipublikasikan"
+
+#: app/src/Editor/EditorLocalization.php:389
+msgid "Background image fill mode"
+msgstr "Mode isi gambar latar belakang"
+
+#: app/src/Editor/EditorLocalization.php:433
+msgid "Load nearby slides"
+msgstr "Muat slide terdekat"
+
+#: app/src/Editor/EditorLocalization.php:432
+msgid "Load all slides concurrently"
+msgstr "Muat semua slide secara bersamaan"
+
+#: app/src/Editor/EditorLocalization.php:511
+msgid "Enter your email address here"
+msgstr "Masukkan alamat e-mail Anda di sini"
+
+#: app/src/Editor/EditorLocalization.php:339
+msgid "All changes are published"
+msgstr "Semua perubahan dipublikasikan"
+
+#: app/src/Editor/EditorLocalization.php:282
+msgid "Selected element does not have any animation."
+msgstr "Pilih elemen yang tidak punya animasi."
+
+#: app/src/Editor/EditorLocalization.php:447
+msgid "Start slider autoplay on appear"
+msgstr "Jalankan slider otomatis saat tampil"
+
+#: app/src/Editor/EditorLocalization.php:400
+msgid "Stop slideshow on this slide"
+msgstr "Hentikan slideshow pada slide ini"
+
+#: app/src/Editor/EditorLocalization.php:329
+msgid "Slideshow timer started"
+msgstr "Pencatat waktu slideshow dimulai"
+
+#: app/src/Editor/EditorLocalization.php:325
+msgid "After slide init"
+msgstr "Setelah slide siap"
+
+#: app/src/Editor/EditorLocalization.php:286
+msgid "Wait for an action"
+msgstr "Menunggu aksi"
+
+#: app/src/Editor/EditorLocalization.php:527
+msgid "You successfully activated your Master Slider Pro license."
+msgstr "Anda berhasil mengaktifkan lisensi Master Slider Pro."
+
+#: app/src/Editor/EditorLocalization.php:260
+msgid "Toggle video playback state"
+msgstr "Beralih kondisi playback video"
+
+#: app/src/Editor/EditorLocalization.php:375
+msgid "The Blues"
+msgstr "The Blues"
+
+#: app/src/Editor/EditorLocalization.php:459
+msgid "Transform type"
+msgstr "Ubah tipe"
+
+#: app/src/Editor/EditorLocalization.php:431
+msgid "Load slides one after another"
+msgstr "Muat slide bergantian satu-satu"
+
+#: app/src/Editor/EditorLocalization.php:448
+msgid "Enable deeplink"
+msgstr "Aktifkan deeplink"
+
+#: app/src/Editor/EditorLocalization.php:495
+msgid "Paste shortcode into your posts or pages"
+msgstr "Tempel shortcode ke pos atau halaman Anda"
+
+#: app/src/Modules/Gutenberg/build/block.json
+#: app/src/Modules/Gutenberg/src/block.json
+msgctxt "block description"
+msgid "Add depicter sliders to the contents."
+msgstr "Tambah slider depicter ke konten."
+
+#: app/src/Controllers/Ajax/EditorAjaxController.php:92
+msgid "Media files cannot be published due to lack of proper file permissions for uploads directory."
+msgstr "Berkas media tidak dapat diterbitkan karena kurangnya file permission di direktori unggahan."
+
+#: app/src/Editor/EditorLocalization.php:370
+msgid "Festive"
+msgstr "Meriah"
+
+#: app/src/Editor/EditorLocalization.php:233
+msgid "Show player controls"
+msgstr "Tampilkan menu pemutar"
+
+#: app/src/Editor/EditorLocalization.php:330
+msgid "Slideshow timer paused"
+msgstr "Pencatat waktu slideshow dijeda"
+
+#: app/src/Editor/EditorLocalization.php:419
+msgid "Content side space"
+msgstr "Jarak sisi konten"
+
+#: app/src/Editor/EditorLocalization.php:136
+msgid "Hide over this slide "
+msgstr "Sembunyikan dari slide ini "
+
+#: app/src/Editor/EditorLocalization.php:193
+msgid "Resizes the element between two breakpoints responsively. Enabling this option helps you to prevent overlapping elements in the smaller screen sizes."
+msgstr "Mengubah ukuran elemen antara dua breakpoint secara responsif. Mengaktifkan opsi ini membantu Anda mencegah elemen yang tumpang tindih dalam ukuran layar yang lebih kecil."
+
+#: app/src/Editor/EditorLocalization.php:481
+msgid "Invisible Hidden Elements"
+msgstr "Elemen Tersembunyi Tidak Terlihat"
+
+#: app/src/Editor/EditorLocalization.php:427
+msgid "Tablet content height"
+msgstr "Tinggi konten tablet"
+
+#: app/src/Editor/EditorLocalization.php:182
+msgid "Custom positioning origin"
+msgstr "Asal pemosisian khusus"
+
+#: app/src/Editor/EditorLocalization.php:437
+msgid "Mouse swipe gesture"
+msgstr "Gerakan swipe mouse"
+
+#: app/src/Editor/EditorLocalization.php:567
+msgid "Enable cache to make MasterSlider even more faster!"
+msgstr "Aktifkan cache untuk membuat MasterSlider lebih cepat!"
+
+#: app/src/Editor/EditorLocalization.php:469
+msgid "*We value your privacy and we never share your information with any third parties. Also, You will be able to unsubscribe from the list at anytime."
+msgstr "*Kami menghargai privasi Anda dan kami tidak pernah membagikan informasi Anda dengan pihak ketiga mana pun. Juga, Anda akan dapat berhenti berlangganan dari daftar kapan saja."
+
+#: app/src/Editor/EditorLocalization.php:225
+msgid "You need to add a Vimeo video link through the right panel."
+msgstr "Anda perlu menambahkan tautan video Vimeo melalui panel kanan."
+
+#: app/src/Editor/EditorLocalization.php:311
+msgid "Animation in"
+msgstr "Animasi masuk"
+
+#: app/src/Editor/EditorLocalization.php:191
+msgid "Wrapping"
+msgstr "Membungkus"
+
+#: app/src/Editor/EditorLocalization.php:312
+msgid "Animation out"
+msgstr "Animasi keluar"
+
+#: app/src/Editor/EditorLocalization.php:303
+msgid "Fade animation"
+msgstr "Animasi memudar"
+
+#: app/src/Editor/EditorLocalization.php:170
+msgid "Use group hit area"
+msgstr "Gunakan area hit grup"
+
+#: app/src/Editor/EditorLocalization.php:309
+msgid "Skew Y"
+msgstr "Miring Y"
+
+#: app/src/Editor/EditorLocalization.php:294
+msgid "Autostart animation out"
+msgstr "Animasi mulai otomatis keluar"
+
+#: app/src/Editor/EditorLocalization.php:277
+msgid "Resume slideshow"
+msgstr "Lanjutkan slideshow"
+
+#: app/src/Editor/EditorLocalization.php:462
+msgid "Hide slider responsively"
+msgstr "Sembunyikan slider secara responsif"
+
+#: app/src/Editor/EditorLocalization.php:458
+msgid "Mask parallax effect"
+msgstr "Efek topeng paralaks"
+
+#: app/src/Editor/EditorLocalization.php:532
+msgid "Upgrade to Master Slider Pro"
+msgstr "Upgrade ke Master Slider Pro"
+
+#: app/src/Editor/EditorLocalization.php:449
+msgid "Deeplink name"
+msgstr "Nama deeplink"
+
+#: app/src/Editor/EditorLocalization.php:257
+msgid "Resume video"
+msgstr "Lanjutkan video"
+
+#: app/src/Editor/EditorLocalization.php:334
+msgid "Sliding change started"
+msgstr "Perubahan sliding dimulai"
+
+#: app/src/Editor/EditorLocalization.php:391
+msgid "Background video fill mode"
+msgstr "Mode video latar belakang penuh"
+
+#: app/src/Editor/EditorLocalization.php:116
+msgid "Add a body paragraph text"
+msgstr "Tambah konten teks paragraf"
+
+#: app/src/Editor/EditorLocalization.php:152
+msgid "Copy/Paste special"
+msgstr "Salin/Tempel khusus"
+
+#: app/src/Editor/EditorLocalization.php:337
+msgid "On swipe gesture update"
+msgstr "Pembaruan gerakan swipe"
+
+#: app/src/Editor/EditorLocalization.php:353
+msgid "Ease"
+msgstr "Sederhana"
+
+#: app/src/Editor/EditorLocalization.php:465
+msgid "Sliding animation options"
+msgstr "Pilihan animasi sliding"
+
+#: app/src/Editor/EditorLocalization.php:474
+msgid "Subscribe to the newsletter to get access to templates, tutorials and unmissable offers before anyone else."
+msgstr "Berlangganan buletin untuk mendapatkan akses ke template, tutorial, dan penawaran yang tidak dapat dilewatkan sebelum orang lain."
+
+#: app/src/Editor/EditorLocalization.php:373
+msgid "Rosie"
+msgstr "Rosie"
+
+#: app/src/Editor/EditorLocalization.php:590
+msgid "Please provide us some details about your feature request."
+msgstr "Mohon infokan kepada kami beberapa detail tentang permintaan fitur Anda."
+
+#: app/src/Editor/EditorLocalization.php:333
+msgid "Responsive breakpoint changed"
+msgstr "Breakpoint responsif diubah"
+
+#: app/src/Editor/EditorLocalization.php:183
+msgid "Enable this option if you need to change the positioning origin manually."
+msgstr "Aktifkan opsi ini jika Anda perlu mengubah asal pemosisian secara manual."
+
+#: app/src/Editor/EditorLocalization.php:74
+msgid "Drag or click to create a button"
+msgstr "Seret atau klik untuk membuat tombol"
+
+#: app/src/Editor/EditorLocalization.php:420
+msgid "Specifies the minimum space on left and right sides of content wrapper. This space appears when the screen size becomes smaller that the content wrapper width."
+msgstr "Menentukan ruang minimum di sisi kiri dan kanan pembungkus konten. Ruang ini muncul saat ukuran layar menjadi lebih kecil dari lebar pembungkus konten."
+
+#: app/src/Editor/EditorLocalization.php:369
+msgid "Edge"
+msgstr "Edge"
+
+#: app/src/Editor/EditorLocalization.php:79
+msgid "Slideshow play and pause"
+msgstr "Putar dan jeda slideshow"
+
+#: app/src/Editor/EditorLocalization.php:575
+msgid "By deactivating your license all pro features become unavailable."
+msgstr "Dengan menonaktifkan lisensi Anda, semua fitur pro menjadi tidak tersedia."
+
+#: app/src/Editor/EditorLocalization.php:295
+msgid "Element animation out starts right after the animation in ends."
+msgstr "Animasi elemen dimulai tepat setelah animasi berakhir."
+
+#: app/src/Editor/EditorLocalization.php:472
+msgid "Stay Tuned"
+msgstr "Tetap di Sini"
+
+#: app/src/Editor/EditorLocalization.php:138
+msgid "Ungroup"
+msgstr "Batalkan grup"
+
+#: app/src/Editor/EditorLocalization.php:384
+msgid "Customize slide content size"
+msgstr "Sesuaikan ukuran konten slide"
+
+#: app/src/Editor/EditorLocalization.php:80
+msgid "Scroll down indicator"
+msgstr "Indikator gulir ke bawah"
+
+#: app/src/Editor/EditorLocalization.php:571
+msgid "Check the box to help us improve the MasterSlider plugin by allowing tracking of product usage stats. All data are stored securely and anonymously."
+msgstr "Centang kotak untuk membantu kami meningkatkan plugin MasterSlider dengan mengizinkan pelacakan statistik penggunaan produk. Semua data disimpan dengan aman dan anonim."
+
+#: app/src/Editor/EditorLocalization.php:497
+msgid "Paste the PHP code into your theme’s file"
+msgstr "Tempel kode PHP ke dalam berkas tema Anda"
+
+#: app/src/Editor/EditorLocalization.php:471
+msgid "You have subscribed to the newsletter successfully."
+msgstr "Anda telah berhasil berlangganan buletin."
+
+#: app/src/Editor/EditorLocalization.php:396
+msgid "Go to next slide (at the end)"
+msgstr "Ke slide berikutnya (di bagian akhir)"
+
+#: app/src/Editor/EditorLocalization.php:78
+msgid "Line timer"
+msgstr "Baris pencatat waktu"
+
+#: app/src/Editor/EditorLocalization.php:154
+msgid "Reset responsive sizes"
+msgstr "Atur ulang ukuran responsif"
+
+#: app/src/Editor/EditorLocalization.php:184
+msgid "Custom origin"
+msgstr "Asal khusus"
+
+#: app/src/Editor/EditorLocalization.php:529
+msgid "Unlock Unlimited Possibilities"
+msgstr "Akses Kemungkinan Tidak Terbatas"
+
+#: app/src/Editor/EditorLocalization.php:344
+msgid "The Origin is the point around which a position is applied"
+msgstr "Asal adalah titik di mana posisi diterapkan"
+
+#: app/src/Editor/EditorLocalization.php:29
+msgid "sample text for text section and lorem is perfect for new world to pay a new deivce over etchnology. when hear the buzz of the little world among the stalks, and familiar with the countless indescribable forms of the insects and flies."
+msgstr "contoh teks untuk bagian teks dan lorem sangat cocok untuk dunia baru untuk membayar perangkat baru atas ethnologi. ketika mendengar dengungan dunia kecil di antara batang-batang, dan akrab dengan bentuk serangga dan lalat yang tak terlukiskan yang tak terhitung jumlahnya."
+
+#: app/src/Editor/EditorLocalization.php:434
+msgid "Number of nearby slides to load"
+msgstr "Jumlah slide terdekat untuk dimuat"
+
+#: app/src/Editor/EditorLocalization.php:50
+msgid "Possession of my entire soul, like these sweet."
+msgstr "Kepemilikan seluruh jiwaku, semanis ini."
+
+#: app/src/Editor/EditorLocalization.php:372
+msgid "Nordic"
+msgstr "Nordik"
+
+#: app/src/Editor/EditorLocalization.php:280
+msgid "Origin"
+msgstr "Asal"
+
+#: app/requirement.php:31
+msgid "%1$s plugin requires PHP version %2$s but current version is %3$s. Please contact your host provider and ask them to upgrade PHP version."
+msgstr "Plugin %1$s memerlukan versi PHP %2$s tetapi versi saat ini adalah %3$s. Silakan hubungi provider hosting Anda dan minta mereka untuk melakukan upgrade versi PHP."
+
+#: app/src/Editor/EditorLocalization.php:240
+msgid "Enabling this option causes \"Video end\" action never triggers."
+msgstr "Mengaktifkan opsi ini menyebabkan tindakan \"Akhir video\" tidak pernah terpicu."
+
+#: app/src/Editor/EditorLocalization.php:331
+msgid "Slideshow timer value changed"
+msgstr "Nilai pencatat waktu slideshow diubah"
+
+#: app/src/Editor/EditorLocalization.php:520
+msgid "Activate by Purchase Code (Manual)"
+msgstr "Aktifkan dengan Kode Pembelian (Manual)"
+
+#: app/src/Editor/EditorLocalization.php:595
+msgid "Please include \\n- A description of the issue \\n- Steps to reproduce (if possible) \\n- What results are expected"
+msgstr "Silakan tulis \\n- Deskripsi masalah \\n- Langkah-langkah mereproduksi (jika mungkin) \\n- Hasil apa yang diharapkan"
+
+#: app/src/Editor/EditorLocalization.php:49
+msgid "Possession of my entire soul, like these sweet mornings of spring into the new way of presentation."
+msgstr "Kepemilikan seluruh jiwaku, seperti pagi musim semi yang manis ini ke dalam cara penyajian yang baru."
+
+#: app/src/Editor/EditorLocalization.php:534
+msgid "How to upgrade after purchase."
+msgstr "Cara upgrade setelah pembelian."
+
+#: app/src/Editor/EditorLocalization.php:422
+msgid "Slider height automatically changes based on the active slide."
+msgstr "Ketinggian slider secara otomatis berubah berdasarkan slide yang aktif."
+
+#: app/src/Editor/EditorLocalization.php:473
+msgid "Would like to be part of the early users special community?"
+msgstr "Ingin menjadi bagian dari komunitas khusus pengguna awal?"
+
+#: app/src/Editor/EditorLocalization.php:224
+msgid "You need to add a YouTube video link through the right panel."
+msgstr "Anda perlu menambahkan tautan video YouTube melalui panel kanan."
+
+#: app/src/Editor/EditorLocalization.php:565
+msgid "By default, MasterSlider will load corresponding JavaScript files on demand. but if you need to load assets on all pages, check this option. (For example, if you plan to load Master Slider via Ajax, you need to check this option)"
+msgstr "Secara default, MasterSlider akan memuat berkas JavaScript sesuai permintaan. Tetapi jika Anda ingin memuat aset di semua halaman, centang opsi ini. (Misalnya, jika Anda ingin memuat Master Slider melalui Ajax, Anda perlu mencentang opsi ini)"
+
+#: app/src/Editor/EditorLocalization.php:130
+msgid "You can also find these settings in the options tab later."
+msgstr "Anda juga dapat menemukan pengaturan ini di tab opsi nanti."
+
+#: app/src/Editor/EditorLocalization.php:94
+msgid "Date on sale to"
+msgstr "Tanggal diskon ke"
+
+#: app/src/Editor/EditorLocalization.php:418
+msgid "You can use this option to reserve space for other contents like the site menu to appear beside the slider."
+msgstr "Anda dapat menggunakan opsi ini untuk mencadangkan ruang untuk konten lain seperti menu situs yang muncul di samping slider."
+
+#: app/src/Editor/EditorLocalization.php:178
+msgid "Use \"selector\" to apply style to this element. Example:"
+msgstr "Gunakan \"pemilih\" untuk menerapkan gaya pada elemen ini. Contoh:"
+
+#: app/src/Editor/EditorLocalization.php:531
+msgid "One time purchase and lifetime free updates.upgrade."
+msgstr "Pembelian satu kali dan pembaruan gratis seumur hidup."
+
+#: app/src/Editor/EditorLocalization.php:510
+msgid "Allow us to contact you about this report"
+msgstr "Izinkan kami untuk menghubungi Anda terkait laporan ini"
+
+#: app/src/Editor/EditorLocalization.php:48
+msgid "Possession of my entire soul, like these sweet mornings of spring."
+msgstr "Memiliki seluruh jiwaku, seperti pagi musim semi yang indah ini."
+
+#: app/src/Editor/EditorLocalization.php:354
+msgid "Ease Type"
+msgstr "Tipe Kemudahan"
+
+#: app/src/Editor/EditorLocalization.php:185
+msgid "Sets the origin point which the element positioning is applied."
+msgstr "Menetapkan titik asal tempat pemosisian elemen diterapkan."
+
+#: app/src/Editor/EditorLocalization.php:530
+msgid "- Premium media assets"
+msgstr "- Aset media premium"
+
+#: app/src/Editor/EditorLocalization.php:415
+msgid "This slug is already exists. Please try another one."
+msgstr "Siput ini sudah ada. Silakan coba yang lain."
+
+#: app/src/Editor/EditorLocalization.php:506
+msgid "Depicter faced a problem and crashed. We’ll restore your project when it reopens."
+msgstr "Depicter menghadapi kendala dan macet. Kami akan memulihkan proyek Anda saat dibuka kembali."
+
+#: app/src/Editor/EditorLocalization.php:512
+msgid "Your crash report will be submitted before you close or refresh."
+msgstr "Laporan kerusakan Anda akan dikirimkan sebelum Anda menutup atau menyegarkan halaman."
+
+#: app/src/Editor/EditorLocalization.php:328
+msgid "Slide background video paused"
+msgstr "Video latar belakang slide dijeda"
+
+#: app/src/Editor/EditorLocalization.php:172
+msgid "Slide name is already exist please try another name"
+msgstr "Nama slide sudah ada, silahkan coba nama lainnya"
+
+#: app/src/Editor/EditorLocalization.php:310
+msgid "Transform origin"
+msgstr "Mengubah asal"
+
+#: app/src/Editor/EditorLocalization.php:361
+msgid "Justify"
+msgstr "Rata kanan kiri"
+
+#: app/src/Editor/EditorLocalization.php:176
+msgid "Hide on mouse leaves the slider"
+msgstr "Sembunyikan saat mouse meninggalkan slider"
+
+#: app/src/Editor/EditorLocalization.php:387
+msgid "Slide class name"
+msgstr "Nama class slide"
+
+#: app/src/Editor/EditorLocalization.php:287
+msgid "You can control animation by actions. For example, you set to start the animation when user click on another element."
+msgstr "Anda dapat mengontrol animasi dengan tindakan. Misalnya, Anda menyetel untuk memulai animasi saat pengguna mengeklik elemen lain."
+
+#: app/src/Editor/EditorLocalization.php:289
+msgid "By enabling this option, the element animation controls by the slide transition, swiping or scrolling."
+msgstr "Dengan mengaktifkan opsi ini, pengaturan animasi elemen dengan transisi slide, swiping atau menggulir."
+
+#: app/src/Editor/EditorLocalization.php:405
+msgid "Dynamic background image source not found."
+msgstr "Sumber gambar latar belakang dinamis tidak ditemukan."
+
+#: app/src/Editor/EditorLocalization.php:283
+msgid "Animation in options"
+msgstr "Animasi dalam pilihan"
+
+#: app/src/Editor/EditorLocalization.php:117
+msgid "Drag or click to add a text"
+msgstr "Seret atau klik untuk menambahkan teks"
+
+#: app/src/Editor/EditorLocalization.php:507
+msgid "Tell us about this crash so we can fix it."
+msgstr "Beri tahu kami tentang kerusakan ini agar kami dapat memperbaikinya."
+
+#: app/src/Editor/EditorLocalization.php:411
+msgid "Use \"selector\" to apply style to the  slider. Example:"
+msgstr "Gunakan \"pemilih\" untuk menerapkan gaya ke slider. Contoh:"
+
+#: app/src/Editor/EditorLocalization.php:504
+msgid "Are you sure you want to restore to last published version? This may remove some of the changes."
+msgstr "Apakah Anda yakin ingin memulihkan ke versi terakhir yang dipublikasikan? Melakukannya dapat menghapus beberapa perubahan."
+
+#: app/src/Editor/EditorLocalization.php:338
+msgid "On swipe gesture ends"
+msgstr "Saat gerakan swipe berakhir"
+
+#: app/src/Editor/EditorLocalization.php:580
+msgid "You have not activated any license yet, to unlock all pro features"
+msgstr "Anda belum mengaktifkan lisensi apa pun, untuk membuka kunci semua fitur pro"
+
+#: app/src/Controllers/Ajax/ImportAjaxController.php:28
+#: app/src/WordPress/FileUploaderService.php:22
+msgid "Cannot upload the file, because max permitted file upload size is %s."
+msgstr "Tidak dapat mengunggah file, karena ukuran maksimum unggahan file yang diizinkan adalah %s."
+
+#: app/src/Editor/EditorLocalization.php:327
+msgid "Slide background video started"
+msgstr "Slide video latar belakang dimulai"
+
+#: app/src/Editor/EditorLocalization.php:302
+msgid "Perspective point"
+msgstr "Titik perspektif"
+
+#: app/src/Editor/EditorLocalization.php:404
+msgid "Use \"selector\" to apply style to this section. Example:"
+msgstr "Gunakan \"pemilih\" untuk menerapkan gaya ke bagian ini. Contoh:"
+
+#: app/src/Editor/EditorLocalization.php:336
+msgid "On swipe gesture start"
+msgstr "Saat gerakan swipe dimulai"
+
+#: app/src/Editor/EditorLocalization.php:134
+msgid " Send to back"
+msgstr " Pindah ke belakang"
+
+#: app/src/Editor/EditorLocalization.php:521
+msgid "Need a Pro License? "
+msgstr "Perlu Lisensi Pro? "
